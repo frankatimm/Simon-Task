@@ -1,0 +1,38 @@
+Start instructions:
+Welcome to our "Simon task" experiment!
+Thank you for taking your time and contributing to our research.
+You can only take part in this experiment using a computer that is connected to a keyboard.
+Before we start, please make sure to not get distracted by anything (e.g. your phone, internet browser,...).
+Make yourself comfortable and get yourself mentally into a working space.
+If you feel ready to start the experiment, press enter to continue.
+
+
+General instructions:
+Before we get started we will provide you with some short instructions and explain what your
+task is going to be.
+You will be presented a grey, blue or green circle.
+Your task is press "B" if there is a grey circle, "J" if there is a blue circle and "F" if there is a green circle.
+Your answers should ensue as fast and accurate as possible.
+In order to prepare you for the experimental setup you will first run through some practice trials before you proceed to the main trials.
+Before each task you will see what exactly to do and which key you have to press.
+If you feel ready to start the practice trials, please press enter.
+
+
+Instructions baseline:
+Press "B" if you see a grey circle.
+Please answer as fast as possible.
+
+
+Instructions Simon task:
+Press "J" if there is a blue circle and "F" if there is a green circle.
+Please answer as fast as possible.
+
+Main instructions:
+So far so good!
+You have now finished the practice phase and hopefully well prepared for the main trials.
+They are identical in format and content.
+In order to proceed, press enter.
+
+
+Post experiment:
+Perfect, you are done! Thank you for taking part in our experiment!
